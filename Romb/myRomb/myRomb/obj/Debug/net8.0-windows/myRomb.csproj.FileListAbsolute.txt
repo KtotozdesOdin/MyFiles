@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.Form1.resources
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.Form2.resources
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\bin\Debug\net8.0-windows\myRomb.exe
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\bin\Debug\net8.0-windows\myRomb.deps.json
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\bin\Debug\net8.0-windows\myRomb.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\bin\Debug\net8.0-windows\myRomb.dll
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\bin\Debug\net8.0-windows\myRomb.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.dll
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\refint\myRomb.dll
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\myRomb.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.5\Romb\myRomb\myRomb\obj\Debug\net8.0-windows\ref\myRomb.dll

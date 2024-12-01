@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\bin\Debug\net8.0-windows\lab1_3.exe
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\bin\Debug\net8.0-windows\lab1_3.deps.json
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\bin\Debug\net8.0-windows\lab1_3.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\bin\Debug\net8.0-windows\lab1_3.dll
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\bin\Debug\net8.0-windows\lab1_3.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.Form1.resources
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.dll
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\refint\lab1_3.dll
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\ref\lab1_3.dll
+D:\ИТМО\WinForms\lab1.5\Romb\lab1_3\lab1_3\obj\Debug\net8.0-windows\lab1_3.Form2.resources

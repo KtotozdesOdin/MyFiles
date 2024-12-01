@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab1.2\lab1.2\bin\Debug\net8.0-windows\lab1.2.exe
+D:\ИТМО\WinForms\lab1.2\lab1.2\bin\Debug\net8.0-windows\lab1.2.deps.json
+D:\ИТМО\WinForms\lab1.2\lab1.2\bin\Debug\net8.0-windows\lab1.2.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.2\lab1.2\bin\Debug\net8.0-windows\lab1.2.dll
+D:\ИТМО\WinForms\lab1.2\lab1.2\bin\Debug\net8.0-windows\lab1.2.pdb
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1._2.Form1.resources
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.dll
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\refint\lab1.2.dll
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.pdb
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1.2.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\ref\lab1.2.dll
+D:\ИТМО\WinForms\lab1.2\lab1.2\obj\Debug\net8.0-windows\lab1._2.nForm.resources

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab1.5\\romb\\romb\\romb\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|solutionrelative:romb\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab1.5\\romb\\romb\\romb\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|solutionrelative:romb\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab1.5\\romb\\romb\\romb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|solutionrelative:romb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab1.5\\romb\\romb\\romb\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|solutionrelative:romb\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab1.5\\romb\\romb\\romb\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FF807-44E9-4B60-87F9-AA5828264312}|Romb\\Romb.csproj|solutionrelative:romb\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\Program.cs",
+              "RelativeDocumentMoniker": "Romb\\Program.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\Program.cs",
+              "RelativeToolTip": "Romb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:38:54.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ParentForm.cs",
+              "RelativeDocumentMoniker": "Romb\\ParentForm.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Romb\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:18:14.906Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ParentForm.cs",
+              "RelativeDocumentMoniker": "Romb\\ParentForm.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ParentForm.cs",
+              "RelativeToolTip": "Romb\\ParentForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:41:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ChildForm.cs",
+              "RelativeDocumentMoniker": "Romb\\ChildForm.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Romb\\ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:06:03.4Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ChildForm.cs",
+              "RelativeDocumentMoniker": "Romb\\ChildForm.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab1.5\\Romb\\Romb\\Romb\\ChildForm.cs",
+              "RelativeToolTip": "Romb\\ChildForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:21:14.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\bin\Debug\net8.0-windows\EllipseForm.exe
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\bin\Debug\net8.0-windows\EllipseForm.deps.json
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\bin\Debug\net8.0-windows\EllipseForm.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\bin\Debug\net8.0-windows\EllipseForm.dll
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\bin\Debug\net8.0-windows\EllipseForm.pdb
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.Form1.resources
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.dll
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\refint\EllipseForm.dll
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.pdb
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\EllipseForm.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.5\Ellipse\EllipseForm\EllipseForm\obj\Debug\net8.0-windows\ref\EllipseForm.dll

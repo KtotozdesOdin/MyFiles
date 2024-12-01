@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication.exe
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication.deps.json
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication.runtimeconfig.json
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication.dll
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication.pdb
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.ParentForm.resources
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.AssemblyInfo.cs
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.dll
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\refint\MdiApplication.dll
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.pdb
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.genruntimeconfig.cache
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\ref\MdiApplication.dll
+D:\ИТМО\WinForms\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication.ChildForm.resources

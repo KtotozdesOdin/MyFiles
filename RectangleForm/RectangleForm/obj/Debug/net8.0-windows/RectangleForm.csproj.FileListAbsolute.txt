@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\bin\Debug\net8.0-windows\RectangleForm.exe
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\bin\Debug\net8.0-windows\RectangleForm.deps.json
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\bin\Debug\net8.0-windows\RectangleForm.runtimeconfig.json
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\bin\Debug\net8.0-windows\RectangleForm.dll
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\bin\Debug\net8.0-windows\RectangleForm.pdb
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.Form1.resources
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.dll
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\refint\RectangleForm.dll
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.pdb
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\ref\RectangleForm.dll
+D:\ИТМО\WinForms\lab1\RectangleForm\RectangleForm\obj\Debug\net8.0-windows\RectangleForm.nForm.resources

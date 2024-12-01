@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\bin\Debug\net8.0-windows\ROMB1.exe
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\bin\Debug\net8.0-windows\ROMB1.deps.json
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\bin\Debug\net8.0-windows\ROMB1.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\bin\Debug\net8.0-windows\ROMB1.dll
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\bin\Debug\net8.0-windows\ROMB1.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.Form1.resources
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.Form2.resources
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.dll
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\refint\ROMB1.dll
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.pdb
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ROMB1.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.5\Romb\ROMB1\ROMB1\obj\Debug\net8.0-windows\ref\ROMB1.dll

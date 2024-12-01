@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\bin\Debug\net8.0-windows\StretchedForm.exe
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\bin\Debug\net8.0-windows\StretchedForm.deps.json
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\bin\Debug\net8.0-windows\StretchedForm.runtimeconfig.json
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\bin\Debug\net8.0-windows\StretchedForm.dll
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\bin\Debug\net8.0-windows\StretchedForm.pdb
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.Form1.resources
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.dll
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\refint\StretchedForm.dll
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.pdb
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\StretchedForm.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab1.5\StretchForm\StretchedForm\StretchedForm\obj\Debug\net8.0-windows\ref\StretchedForm.dll
