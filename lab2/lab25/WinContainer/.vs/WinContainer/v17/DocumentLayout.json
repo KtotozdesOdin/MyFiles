@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab25\\WinContainer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6B5708-152D-4C64-8274-C0DDD6A489B2}|WinContainer\\WinContainer.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab2\\lab25\\wincontainer\\wincontainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6B5708-152D-4C64-8274-C0DDD6A489B2}|WinContainer\\WinContainer.csproj|solutionrelative:wincontainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6B5708-152D-4C64-8274-C0DDD6A489B2}|WinContainer\\WinContainer.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab2\\lab25\\wincontainer\\wincontainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6B5708-152D-4C64-8274-C0DDD6A489B2}|WinContainer\\WinContainer.csproj|solutionrelative:wincontainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab25\\WinContainer\\WinContainer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinContainer\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab25\\WinContainer\\WinContainer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinContainer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:01:32.638Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab25\\WinContainer\\WinContainer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinContainer\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab25\\WinContainer\\WinContainer\\Form1.cs",
+              "RelativeToolTip": "WinContainer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:50:29.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

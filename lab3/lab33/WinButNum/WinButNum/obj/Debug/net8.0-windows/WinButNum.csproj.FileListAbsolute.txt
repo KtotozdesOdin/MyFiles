@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\bin\Debug\net8.0-windows\WinButNum.exe
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\bin\Debug\net8.0-windows\WinButNum.deps.json
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\bin\Debug\net8.0-windows\WinButNum.runtimeconfig.json
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\bin\Debug\net8.0-windows\WinButNum.dll
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\bin\Debug\net8.0-windows\WinButNum.pdb
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.Form1.resources
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.dll
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\refint\WinButNum.dll
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.pdb
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\WinButNum.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab3\lab33\WinButNum\WinButNum\obj\Debug\net8.0-windows\ref\WinButNum.dll

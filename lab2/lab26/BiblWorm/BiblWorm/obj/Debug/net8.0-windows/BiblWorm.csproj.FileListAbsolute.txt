@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.exe
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.deps.json
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.runtimeconfig.json
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.dll
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.pdb
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Form1.resources
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.dll
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\refint\BiblWorm.dll
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.pdb
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\ref\BiblWorm.dll
+D:\ИТМО\WinForms\lab2\lab26\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Properties.Resources.resources

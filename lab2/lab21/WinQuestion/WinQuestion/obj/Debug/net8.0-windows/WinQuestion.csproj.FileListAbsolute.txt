@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.exe
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.deps.json
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.runtimeconfig.json
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.dll
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.pdb
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.Form1.resources
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.dll
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\refint\WinQuestion.dll
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.pdb
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab2\lab21\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\ref\WinQuestion.dll

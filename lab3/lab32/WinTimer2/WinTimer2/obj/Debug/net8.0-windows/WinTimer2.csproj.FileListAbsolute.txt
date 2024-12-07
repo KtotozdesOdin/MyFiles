@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\bin\Debug\net8.0-windows\WinTimer2.exe
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\bin\Debug\net8.0-windows\WinTimer2.deps.json
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\bin\Debug\net8.0-windows\WinTimer2.runtimeconfig.json
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\bin\Debug\net8.0-windows\WinTimer2.dll
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\bin\Debug\net8.0-windows\WinTimer2.pdb
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.Form1.resources
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.UserControlTimer2.resources
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.dll
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\refint\WinTimer2.dll
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.pdb
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\WinTimer2.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab3\lab32\WinTimer2\WinTimer2\obj\Debug\net8.0-windows\ref\WinTimer2.dll

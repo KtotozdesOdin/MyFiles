@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "TestList\TestList.csproj", "{20EE7CBC-FF29-4F7A-B583-E7FBD81D99C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{793B7BDF-3335-468B-8D1B-A46C8FE0CD44}"
+	ProjectSection(SolutionItems) = preProject
+		XMLData.xml = XMLData.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EE7CBC-FF29-4F7A-B583-E7FBD81D99C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EE7CBC-FF29-4F7A-B583-E7FBD81D99C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EE7CBC-FF29-4F7A-B583-E7FBD81D99C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EE7CBC-FF29-4F7A-B583-E7FBD81D99C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

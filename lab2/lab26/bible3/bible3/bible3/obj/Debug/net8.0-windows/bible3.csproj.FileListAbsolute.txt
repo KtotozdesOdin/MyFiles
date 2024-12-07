@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\bin\Debug\net8.0-windows\bible3.exe
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\bin\Debug\net8.0-windows\bible3.deps.json
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\bin\Debug\net8.0-windows\bible3.runtimeconfig.json
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\bin\Debug\net8.0-windows\bible3.dll
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\bin\Debug\net8.0-windows\bible3.pdb
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.Form1.resources
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.dll
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\refint\bible3.dll
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.pdb
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\bible3.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab2\lab26\bible3\bible3\bible3\obj\Debug\net8.0-windows\ref\bible3.dll

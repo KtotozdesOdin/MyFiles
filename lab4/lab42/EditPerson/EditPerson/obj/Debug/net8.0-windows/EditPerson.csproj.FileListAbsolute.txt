@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.exe
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.deps.json
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.runtimeconfig.json
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.dll
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.pdb
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.Form1.resources
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.dll
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\refint\EditPerson.dll
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.pdb
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\ref\EditPerson.dll
+D:\ИТМО\WinForms\lab4\lab42\EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.EditPersonForm.resources

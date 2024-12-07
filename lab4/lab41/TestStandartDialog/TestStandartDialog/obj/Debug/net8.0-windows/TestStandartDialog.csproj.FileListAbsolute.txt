@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.exe
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.deps.json
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.runtimeconfig.json
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.dll
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.pdb
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.Form1.resources
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.dll
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\refint\TestStandartDialog.dll
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.pdb
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab4\lab41\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\ref\TestStandartDialog.dll

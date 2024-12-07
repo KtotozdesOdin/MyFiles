@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab26\\Bibl2\\BibleForm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6B278-D38B-4E58-9CA5-D005DFF23C63}|BibleForm2\\BibleForm2.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab2\\lab26\\bibl2\\bibleform2\\bibleform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74F6B278-D38B-4E58-9CA5-D005DFF23C63}|BibleForm2\\BibleForm2.csproj|solutionrelative:bibleform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab26\\Bibl2\\BibleForm2\\BibleForm2\\Form1.cs",
+              "RelativeDocumentMoniker": "BibleForm2\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab2\\lab26\\Bibl2\\BibleForm2\\BibleForm2\\Form1.cs [Design]",
+              "RelativeToolTip": "BibleForm2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:25:46.674Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

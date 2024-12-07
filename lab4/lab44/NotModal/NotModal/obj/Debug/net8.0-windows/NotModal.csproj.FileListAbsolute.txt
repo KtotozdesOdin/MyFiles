@@ -1,0 +1,17 @@
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.Form1.resources
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.Form2.resources
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\bin\Debug\net8.0-windows\NotModal.exe
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\bin\Debug\net8.0-windows\NotModal.deps.json
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\bin\Debug\net8.0-windows\NotModal.runtimeconfig.json
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\bin\Debug\net8.0-windows\NotModal.dll
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\bin\Debug\net8.0-windows\NotModal.pdb
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.dll
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\refint\NotModal.dll
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.pdb
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\NotModal.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab4\lab44\NotModal\NotModal\obj\Debug\net8.0-windows\ref\NotModal.dll
