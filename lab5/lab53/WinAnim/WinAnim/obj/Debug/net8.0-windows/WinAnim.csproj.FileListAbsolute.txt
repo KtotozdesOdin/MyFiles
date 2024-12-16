@@ -1,0 +1,16 @@
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\bin\Debug\net8.0-windows\WinAnim.exe
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\bin\Debug\net8.0-windows\WinAnim.deps.json
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\bin\Debug\net8.0-windows\WinAnim.runtimeconfig.json
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\bin\Debug\net8.0-windows\WinAnim.dll
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\bin\Debug\net8.0-windows\WinAnim.pdb
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.Form1.resources
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.dll
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\refint\WinAnim.dll
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.pdb
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\WinAnim.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab5\lab53\WinAnim\WinAnim\obj\Debug\net8.0-windows\ref\WinAnim.dll

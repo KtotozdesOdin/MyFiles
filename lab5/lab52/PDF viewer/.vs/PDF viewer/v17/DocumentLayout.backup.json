@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF viewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1742EB18-BCCB-4842-979C-5C6469E65103}|PDF viewer\\PDF viewer.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf viewer\\pdf viewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1742EB18-BCCB-4842-979C-5C6469E65103}|PDF viewer\\PDF viewer.csproj|solutionrelative:pdf viewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF viewer\\PDF viewer\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF viewer\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF viewer\\PDF viewer\\Form1.cs [Design]",
+              "RelativeToolTip": "PDF viewer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:03:40.782Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

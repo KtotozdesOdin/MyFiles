@@ -1,0 +1,10 @@
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.csproj.AssemblyReference.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\Interop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\AxInterop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.csproj.ResolveComReference.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.Form1.resources
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab5\lab52\PDF_Reader\PDF_Reader\obj\Debug\net8.0-windows\PDF_Reader.csproj.CoreCompileInputs.cache

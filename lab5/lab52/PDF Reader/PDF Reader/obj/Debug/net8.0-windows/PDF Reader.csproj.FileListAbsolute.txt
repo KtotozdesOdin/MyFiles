@@ -1,0 +1,21 @@
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\PDF Reader.exe
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\PDF Reader.deps.json
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\PDF Reader.runtimeconfig.json
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\PDF Reader.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\PDF Reader.pdb
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\Interop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\bin\Debug\net8.0-windows\AxInterop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\Interop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\AxInterop.AcroPDFLib.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.csproj.ResolveComReference.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF_Reader.Form1.resources
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.csproj.GenerateResource.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.AssemblyInfoInputs.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.AssemblyInfo.cs
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.csproj.CoreCompileInputs.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\refint\PDF Reader.dll
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.pdb
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\PDF Reader.genruntimeconfig.cache
+D:\ИТМО\WinForms\lab5\lab52\PDF Reader\PDF Reader\obj\Debug\net8.0-windows\ref\PDF Reader.dll

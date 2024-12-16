@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF Reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D94F0DF-B3EF-4910-AF60-5041410671ED}|PDF Reader\\PDF Reader.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf reader\\pdf reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D94F0DF-B3EF-4910-AF60-5041410671ED}|PDF Reader\\PDF Reader.csproj|solutionrelative:pdf reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D94F0DF-B3EF-4910-AF60-5041410671ED}|PDF Reader\\PDF Reader.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf reader\\pdf reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D94F0DF-B3EF-4910-AF60-5041410671ED}|PDF Reader\\PDF Reader.csproj|solutionrelative:pdf reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF Reader\\PDF Reader\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF Reader\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF Reader\\PDF Reader\\Form1.cs",
+              "RelativeToolTip": "PDF Reader\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:53:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF Reader\\PDF Reader\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF Reader\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF Reader\\PDF Reader\\Form1.cs [Design]",
+              "RelativeToolTip": "PDF Reader\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:32:09.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

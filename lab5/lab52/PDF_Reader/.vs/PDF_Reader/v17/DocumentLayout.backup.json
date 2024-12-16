@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf_reader\\pdf_reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|solutionrelative:pdf_reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf_reader\\pdf_reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|solutionrelative:pdf_reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|d:\\\u0438\u0442\u043C\u043E\\winforms\\lab5\\lab52\\pdf_reader\\pdf_reader\\pdf_reader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{162963EF-4A82-4627-A43F-5D63392B4741}|PDF_Reader\\PDF_Reader.csproj|solutionrelative:pdf_reader\\pdf_reader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PDF_Reader",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\PDF_Reader.csproj",
+              "RelativeDocumentMoniker": "PDF_Reader\\PDF_Reader.csproj",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\PDF_Reader.csproj*",
+              "RelativeToolTip": "PDF_Reader\\PDF_Reader.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T18:53:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF_Reader\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\Form1.cs [Design]*",
+              "RelativeToolTip": "PDF_Reader\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:28:01.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF_Reader\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0422\u041C\u041E\\WinForms\\lab5\\lab52\\PDF_Reader\\PDF_Reader\\Form1.cs*",
+              "RelativeToolTip": "PDF_Reader\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:09:01.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
