@@ -1,0 +1,17 @@
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\MyCalculator.exe
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\MyCalculator.deps.json
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\MyCalculator.runtimeconfig.json
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\MyCalculator.dll
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\MyCalculator.pdb
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.Properties.Resources.resources
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.csproj.GenerateResource.cache
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.AssemblyInfoInputs.cache
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.AssemblyInfo.cs
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.csproj.CoreCompileInputs.cache
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.dll
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\refint\MyCalculator.dll
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.pdb
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.genruntimeconfig.cache
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\ref\MyCalculator.dll
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\obj\Release\net8.0-windows\MyCalculator.Calculator.resources

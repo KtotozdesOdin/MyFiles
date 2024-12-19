@@ -1,0 +1,5 @@
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\publish\MyCalculator.exe
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\publish\MyCalculator.dll
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\publish\MyCalculator.deps.json
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\publish\MyCalculator.runtimeconfig.json
+D:\ITMO\WinForms\Exam\MyCalculator\MyCalculator\bin\Release\net8.0-windows\publish\MyCalculator.pdb
