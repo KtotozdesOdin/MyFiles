@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUnx7yD8yl0=",
+  "success": true,
+  "projectFilePath": "D:\\ITMO\\ADO .NET\\ex2\\DBConnection\\DBConnection\\DBConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
