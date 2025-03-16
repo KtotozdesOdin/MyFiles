@@ -1,8 +1,11 @@
 using System.Configuration;
 using System.Data;
 using System.Diagnostics.Eventing.Reader;
+using System.Diagnostics.Metrics;
 using System.Drawing.Text;
 using System.Linq;
+using System.Net;
+using System.Security.AccessControl;
 using Npgsql;
 using static System.Collections.Specialized.BitVector32;
 using static System.Windows.Forms.ListViewItem;
@@ -119,16 +122,17 @@ namespace myDBProject
             }
         }
 
-
         private void btn_Customer_Orders_Click(object sender, EventArgs e)
         {
             string cityFilter = txt_city.Text;
             string countryFilter = txt_country.Text;
+            string customerIdFilter = txt_customerID.Text;
+            int? orderIdFilter = int.TryParse(txt_orderID.Text, out int parsedOrderId) ? parsedOrderId : (int?)null;
 
 
             // Загружаем данные с фильтрами
             LoadData dataLoader = new LoadData(connection);
-            DataTable dataTable = dataLoader.DataLoad_CustomerOrders(cityFilter, countryFilter);
+            DataTable dataTable = dataLoader.DataLoad_CustomerOrders(cityFilter, countryFilter, customerIdFilter, orderIdFilter);
 
             dgv_resultQuery.AutoGenerateColumns = false;
             dgv_resultQuery.Columns.Clear();
@@ -185,19 +189,19 @@ namespace myDBProject
                 dgv_resultQuery.Columns["phone"].DataPropertyName = "phone";
 
                 // Привязываем данные
-                dgv_resultQuery.DataSource = dataTable;
+
 
                 dgv_resultQuery.DataSource = dataTable;
+            }
+            catch (InvalidOperationException ex)
+            {
+                MessageBox.Show("Введите данные для подключения");
             }
             catch (NpgsqlException ex)
             {
                 lbltoolStripStatus.Text = connectionString;
                 statusStrip_connection.ForeColor = System.Drawing.Color.Red;
                 MessageBox.Show("Ошибка подключения");
-            }
-            catch (InvalidOperationException ex)
-            {
-                MessageBox.Show("Введите данные для подключения");
             }
         }
 
@@ -225,22 +229,29 @@ namespace myDBProject
 
         private void btn_saveToXML_Click(object sender, EventArgs e)
         {
-            DataTable dataTable = (DataTable)dgv_resultQuery.DataSource;
-            using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+            try
             {
-                saveFileDialog.FileName = "data.xml";
-                saveFileDialog.Filter = "XML Files(*.xml) |*.xml";
-                saveFileDialog.RestoreDirectory = true;
+                DataTable dataTable = (DataTable)dgv_resultQuery.DataSource;
+                using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+                {
+                    saveFileDialog.FileName = "data.xml";
+                    saveFileDialog.Filter = "XML Files(*.xml) |*.xml";
+                    saveFileDialog.RestoreDirectory = true;
 
-                if (saveFileDialog.ShowDialog() == DialogResult.OK)
-                {
-                    string filePath = saveFileDialog.FileName;
-                    DataSaving.SaveToXML(dataTable, filePath);
+                    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        string filePath = saveFileDialog.FileName;
+                        DataSaving.SaveToXML(dataTable, filePath);
+                    }
+                    else
+                    {
+                        MessageBox.Show("Сохранение отменено.");
+                    }
                 }
-                else
-                {
-                    MessageBox.Show("Сохранение отменено.");
-                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ошибка: " + ex);
             }
         }
 
@@ -309,5 +320,121 @@ namespace myDBProject
             // Очищаем DataGridView после добавления
             dgv_addCustomer.Rows.Clear();
         }
+
+        private void btn_showCustomers_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                using (var context = new AppDbContext())
+                {
+                    var customers = context.Customers.ToList();
+                    dgv_CustomerTable.DataSource = customers;
+                }
+            }
+            catch (Exception es)
+            {
+                MessageBox.Show("Ошибка загрузки таблицы customers" + es);
+            }
+
+        }
+
+        private void btn_Addcust_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                var customerId = txtCustomerId.Text;
+                var companyName = txtCompanyName.Text;
+                var contactName = txtContactName.Text;
+                var contactTitle = txtContactTitle.Text;
+                var address = txtAddress.Text;
+                var city = txtCity.Text;
+                var region = txtRegion.Text;
+                var postalCode = txtPostalCode.Text;
+                var country = txtCountry.Text;
+                var phone = txtPhone.Text;
+                var fax = txtFax.Text;
+
+                Customer newCustomer = new Customer
+                {
+                    customer_id = customerId,
+                    company_name = companyName,
+                    contact_name = contactName,
+                    contact_title = contactTitle,
+                    address = address,
+                    city = city,
+                    region = region,
+                    postal_code = postalCode,
+                    country = country,
+                    phone = phone,
+                    fax = fax
+                };
+
+                // Добавляем клиента в базу данных
+                using (var context = new AppDbContext())
+                {
+                    context.Customers.Add(newCustomer);
+                    context.SaveChanges();
+                }
+
+                // очищаем поля 
+
+                txtCustomerId.Clear();
+                txtCompanyName.Clear();
+                txtContactName.Clear();
+                txtAddress.Clear();
+                txtCity.Clear();
+                txtRegion.Clear();
+                txtPostalCode.Clear();
+                txtCountry.Clear();
+                txtPhone.Clear();
+                txtFax.Clear();
+
+
+                MessageBox.Show("Клиент успешно добавлен!");
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ошибка" + ex);
+            }
+
+        }
+
+        private void btn_DeleteCustomer_Click(object sender, EventArgs e)
+        {
+            string customerId = txtCustomerId.Text;
+            using (var context = new AppDbContext())
+            {
+                context.DeleteCustomer(customerId);
+            }
+
+        }
+
+        private void btn_deleteOrder_Click(object sender, EventArgs e)
+        {
+            var orderId = int.Parse(txtOrderId.Text);
+            using(var context = new AppDbContext())
+            {
+                context.DeleteOrder(orderId);
+            }
+        }
+
+        private void btn_showOrders_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (var context = new AppDbContext())
+                {
+                    var orders = context.Orders.ToList();
+                    dgv_CustomerTable.DataSource = orders;
+                }
+            }
+            catch (Exception es)
+            {
+                MessageBox.Show("Ошибка загрузки таблицы orders" + es);
+            }
+        }
+       
     }
 }

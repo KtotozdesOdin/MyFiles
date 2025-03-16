@@ -29,13 +29,16 @@ namespace myDBProject
             DataTable dt = new DataTable();
             try
             {
-                string querry = "SELECT customer_id, contact_name, phone FROM public.customers;";
+                string querry = @"SELECT customer_id, 
+                                         contact_name, 
+                                         phone 
+                                    FROM public.customers;";
 
                 NpgsqlDataAdapter adapter = new NpgsqlDataAdapter(querry, connection);
                 {
                     adapter.Fill(dt);
                 }
-                
+
             }
             catch (Npgsql.PostgresException ex)
             {
@@ -52,7 +55,7 @@ namespace myDBProject
 
         }
 
-        public DataTable DataLoad_CustomerOrders(string city = null, string country = null)
+        public DataTable DataLoad_CustomerOrders(string city = null, string country = null, string customer_id = null, int? order_id = null)
         {
             DataTable dt = new DataTable();
             try
@@ -75,6 +78,14 @@ namespace myDBProject
                 {
                     querry += " AND pc.country = @country";
                 }
+                if (!string.IsNullOrEmpty(customer_id))
+                {
+                    querry += " AND pc.customer_id = @customer_id";
+                }
+                if (order_id.HasValue)
+                {
+                    querry += " AND po.order_id = @order_id";
+                }
 
                 //Добавляем параметры для фильтрации
                 // Создаем команду
@@ -87,6 +98,14 @@ namespace myDBProject
                 if (!string.IsNullOrEmpty(country))
                 {
                     command.Parameters.AddWithValue("@country", country);
+                }
+                if (!string.IsNullOrEmpty(customer_id))
+                {
+                    command.Parameters.AddWithValue("@customer_id", customer_id);
+                }
+                if (order_id.HasValue)
+                {
+                    command.Parameters.AddWithValue("@order_id", order_id);
                 }
                 using (NpgsqlDataAdapter adapter = new NpgsqlDataAdapter(command))
                 {

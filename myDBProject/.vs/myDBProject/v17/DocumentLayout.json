@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\ITMO\\ADO .NET\\myDBProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|D:\\ITMO\\ADO .NET\\myDBProject\\mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\datasaving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\datasaving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\createdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\createdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|solutionrelative:mydbproject\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963B8961-FA46-4F11-B3B3-B7055406FF7B}|myDBProject\\myDBProject.csproj|d:\\itmo\\ado .net\\mydbproject\\mydbproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -34,44 +38,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\App.config",
+              "RelativeDocumentMoniker": "myDBProject\\App.config",
+              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\App.config",
+              "RelativeToolTip": "myDBProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-16T16:44:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs",
               "RelativeDocumentMoniker": "myDBProject\\Form1.cs",
               "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs [Design]",
               "RelativeToolTip": "myDBProject\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:16:00.331Z",
+              "WhenOpened": "2025-03-16T10:36:50.943Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataSaving.cs",
-              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\DataSaving.cs",
-              "RelativeDocumentMoniker": "myDBProject\\DataSaving.cs",
-              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\DataSaving.cs",
-              "RelativeToolTip": "myDBProject\\DataSaving.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Orders.cs",
+              "RelativeDocumentMoniker": "myDBProject\\Orders.cs",
+              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Orders.cs",
+              "RelativeToolTip": "myDBProject\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:18:41.492Z",
+              "WhenOpened": "2025-03-16T09:07:08.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs",
-              "RelativeDocumentMoniker": "myDBProject\\Form1.cs",
-              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs",
-              "RelativeToolTip": "myDBProject\\Form1.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAADwvwIBAABJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "myDBProject\\AppDbContext.cs",
+              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\AppDbContext.cs",
+              "RelativeToolTip": "myDBProject\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:36:40.636Z",
+              "WhenOpened": "2025-03-15T20:49:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Customer.cs",
+              "RelativeDocumentMoniker": "myDBProject\\Customer.cs",
+              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Customer.cs",
+              "RelativeToolTip": "myDBProject\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:28:26.473Z",
               "EditorCaption": ""
             },
             {
@@ -82,35 +124,22 @@
               "RelativeDocumentMoniker": "myDBProject\\LoadData.cs",
               "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\LoadData.cs",
               "RelativeToolTip": "myDBProject\\LoadData.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T19:24:18.736Z",
+              "WhenOpened": "2025-03-16T17:34:40.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateData.cs",
-              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\CreateData.cs",
-              "RelativeDocumentMoniker": "myDBProject\\CreateData.cs",
-              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\CreateData.cs",
-              "RelativeToolTip": "myDBProject\\CreateData.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAADwvzsAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs",
+              "RelativeDocumentMoniker": "myDBProject\\Form1.cs",
+              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\Form1.cs",
+              "RelativeToolTip": "myDBProject\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:13:40.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\App.config",
-              "RelativeDocumentMoniker": "myDBProject\\App.config",
-              "ToolTip": "D:\\ITMO\\ADO .NET\\myDBProject\\myDBProject\\App.config",
-              "RelativeToolTip": "myDBProject\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-03T18:34:37.427Z",
+              "WhenOpened": "2025-03-15T20:48:21.019Z",
               "EditorCaption": ""
             }
           ]
